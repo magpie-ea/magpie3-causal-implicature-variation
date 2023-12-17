@@ -9,4 +9,4 @@ To run the project locally, run `npm run serve`
 
 ### Live version
 
-Try a live version: [here](https://magpie-ea.github.io/magpie3-causal-implicature/)
+Try a live version: [here](https://magpie-ea.github.io/magpie3-causal-implicature-variation/)
