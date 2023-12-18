@@ -1,31 +1,36 @@
 <template>
   <Experiment title="causal-implicature-variation">
     <InstructionScreen :title="'Welcome'">
-      This is a sample introduction screen.
+      This is a short short survey where you will read a piece of information and answer a single question about it.
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
       <Screen :key="i">
         <Slide>
-          <p><strong>Band:</strong> {{ trial.A }}</p>
+          <p>Suppose you read the following piece of information:</p>
           <p>
-            <strong>Album:</strong> {{ trial.B }}
+            <strong>{{ trial.prompt }}</strong> 
           </p>
           <p>
-            Rating: <strong>{{ trial.C }}</strong>
+            <strong>Question:</strong> Which of the following is more likely?
           </p>
-          <p><strong>Question:</strong> Do you agree?</p>
+          
           <ForcedChoiceInput
             :response.sync="$magpie.measurements.response"
-            :options="['yes', 'hell, yesss!']"
+            :options="[trial.choice1, trial.choice2]"
             @update:response="$magpie.saveAndNextScreen()"
           />
           <Record
             :data="{
               trialNR: i,
-              band: trial.A,
-              album: trial.B,
-              rating: trial.C
+              condition: condition,
+              name1:name1,
+              name2:name2,
+              prompt:prompt,
+              choiceNameFirst:choiceNameFirst,
+              choice1: choice1,
+              choice2: choice2,
+              response: trial.C
             }"
           />
         </Slide>
@@ -48,7 +53,7 @@ console.log("Hi, I'm Dan's first experiment. Hope, I'm here to stay.")
 export default {
   name: 'App',
   data() {
-    return { trials: _.shuffle(trials)};
+    return { trials: _.shuffle(trials)[1]};
   },
   computed: {
     // Expose lodash to template code
