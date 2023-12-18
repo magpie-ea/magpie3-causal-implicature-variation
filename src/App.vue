@@ -22,15 +22,15 @@
           />
           <Record
             :data="{
-              trialNR: i,
-              condition: condition,
-              name1:name1,
-              name2:name2,
-              prompt:prompt,
-              choiceNameFirst:choiceNameFirst,
-              choice1: choice1,
-              choice2: choice2,
-              response: trial.C
+              trialNR        : i,
+              condition      : trial.condition,
+              name1          : trial.name1,
+              name2          : trial.name2,
+              prompt         : trial.prompt,
+              choiceNameFirst: trial.choiceNameFirst,
+              choice1        : trial.choice1,
+              choice2        : trial.choice2,
+              response       : trial.C
             }"
           />
         </Slide>
@@ -53,7 +53,7 @@ console.log("Hi, I'm Dan's first experiment. Hope, I'm here to stay.")
 export default {
   name: 'App',
   data() {
-    return { trials: _.shuffle(trials)[1]};
+    return { trials: _.shuffle(trials).slice(-1)};
   },
   computed: {
     // Expose lodash to template code
