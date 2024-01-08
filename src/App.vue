@@ -2,6 +2,8 @@
   <Experiment title="causal-implicature-variation">
     <InstructionScreen :title="'Welcome'">
       This is a short short survey where you will read a piece of information and answer a single question about it.
+
+      The task may seem very easy at first, but we ask you to <strong>think about the answer for a moment before you make a decision</strong>.
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
@@ -47,8 +49,6 @@
 <script>
 import trials from '../trials/trials.csv';
 import _ from 'lodash';
-
-console.log("Hi, I'm Dan's first experiment. Hope, I'm here to stay.")
 
 export default {
   name: 'App',
