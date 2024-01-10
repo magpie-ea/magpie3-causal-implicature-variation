@@ -1,0 +1,121 @@
+condition,name1,name2,promptPart1,promptPart2,choiceNameFirst,choice1,choice2
+firstTopic,Themaglin,Rebosen,Speaking of Themaglin, it is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+firstTopic,Themaglin,Rebosen,Speaking of Themaglin, it is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+secondTopic,Themaglin,Rebosen,Speaking of Rebosen,Themaglin is associated with it.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+secondTopic,Themaglin,Rebosen,Speaking of Rebosen,Themaglin is associated with it.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+firstTopic,Themaglin,Denoden,Speaking of Themaglin, it is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+firstTopic,Themaglin,Denoden,Speaking of Themaglin, it is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+secondTopic,Themaglin,Denoden,Speaking of Denoden,Themaglin is associated with it.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+secondTopic,Themaglin,Denoden,Speaking of Denoden,Themaglin is associated with it.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+firstTopic,Themaglin,Flembers,Speaking of Themaglin, it is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+firstTopic,Themaglin,Flembers,Speaking of Themaglin, it is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+secondTopic,Themaglin,Flembers,Speaking of Flembers,Themaglin is associated with it.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+secondTopic,Themaglin,Flembers,Speaking of Flembers,Themaglin is associated with it.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+firstTopic,Themaglin,Agoriv,Speaking of Themaglin, it is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+firstTopic,Themaglin,Agoriv,Speaking of Themaglin, it is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+secondTopic,Themaglin,Agoriv,Speaking of Agoriv,Themaglin is associated with it.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+secondTopic,Themaglin,Agoriv,Speaking of Agoriv,Themaglin is associated with it.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+firstTopic,Themaglin,Ceflar,Speaking of Themaglin, it is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+firstTopic,Themaglin,Ceflar,Speaking of Themaglin, it is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+secondTopic,Themaglin,Ceflar,Speaking of Ceflar,Themaglin is associated with it.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+secondTopic,Themaglin,Ceflar,Speaking of Ceflar,Themaglin is associated with it.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+firstTopic,Rebosen,Themaglin,Speaking of Rebosen, it is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+firstTopic,Rebosen,Themaglin,Speaking of Rebosen, it is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+secondTopic,Rebosen,Themaglin,Speaking of Themaglin,Rebosen is associated with it.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+secondTopic,Rebosen,Themaglin,Speaking of Themaglin,Rebosen is associated with it.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+firstTopic,Rebosen,Denoden,Speaking of Rebosen, it is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+firstTopic,Rebosen,Denoden,Speaking of Rebosen, it is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+secondTopic,Rebosen,Denoden,Speaking of Denoden,Rebosen is associated with it.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+secondTopic,Rebosen,Denoden,Speaking of Denoden,Rebosen is associated with it.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+firstTopic,Rebosen,Flembers,Speaking of Rebosen, it is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+firstTopic,Rebosen,Flembers,Speaking of Rebosen, it is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+secondTopic,Rebosen,Flembers,Speaking of Flembers,Rebosen is associated with it.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+secondTopic,Rebosen,Flembers,Speaking of Flembers,Rebosen is associated with it.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+firstTopic,Rebosen,Agoriv,Speaking of Rebosen, it is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+firstTopic,Rebosen,Agoriv,Speaking of Rebosen, it is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+secondTopic,Rebosen,Agoriv,Speaking of Agoriv,Rebosen is associated with it.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+secondTopic,Rebosen,Agoriv,Speaking of Agoriv,Rebosen is associated with it.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+firstTopic,Rebosen,Ceflar,Speaking of Rebosen, it is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+firstTopic,Rebosen,Ceflar,Speaking of Rebosen, it is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+secondTopic,Rebosen,Ceflar,Speaking of Ceflar,Rebosen is associated with it.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+secondTopic,Rebosen,Ceflar,Speaking of Ceflar,Rebosen is associated with it.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+firstTopic,Denoden,Themaglin,Speaking of Denoden, it is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+firstTopic,Denoden,Themaglin,Speaking of Denoden, it is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+secondTopic,Denoden,Themaglin,Speaking of Themaglin,Denoden is associated with it.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+secondTopic,Denoden,Themaglin,Speaking of Themaglin,Denoden is associated with it.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+firstTopic,Denoden,Rebosen,Speaking of Denoden, it is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+firstTopic,Denoden,Rebosen,Speaking of Denoden, it is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+secondTopic,Denoden,Rebosen,Speaking of Rebosen,Denoden is associated with it.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+secondTopic,Denoden,Rebosen,Speaking of Rebosen,Denoden is associated with it.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+firstTopic,Denoden,Flembers,Speaking of Denoden, it is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+firstTopic,Denoden,Flembers,Speaking of Denoden, it is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+secondTopic,Denoden,Flembers,Speaking of Flembers,Denoden is associated with it.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+secondTopic,Denoden,Flembers,Speaking of Flembers,Denoden is associated with it.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+firstTopic,Denoden,Agoriv,Speaking of Denoden, it is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+firstTopic,Denoden,Agoriv,Speaking of Denoden, it is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+secondTopic,Denoden,Agoriv,Speaking of Agoriv,Denoden is associated with it.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+secondTopic,Denoden,Agoriv,Speaking of Agoriv,Denoden is associated with it.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+firstTopic,Denoden,Ceflar,Speaking of Denoden, it is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+firstTopic,Denoden,Ceflar,Speaking of Denoden, it is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+secondTopic,Denoden,Ceflar,Speaking of Ceflar,Denoden is associated with it.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+secondTopic,Denoden,Ceflar,Speaking of Ceflar,Denoden is associated with it.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+firstTopic,Flembers,Themaglin,Speaking of Flembers, it is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+firstTopic,Flembers,Themaglin,Speaking of Flembers, it is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+secondTopic,Flembers,Themaglin,Speaking of Themaglin,Flembers is associated with it.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+secondTopic,Flembers,Themaglin,Speaking of Themaglin,Flembers is associated with it.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+firstTopic,Flembers,Rebosen,Speaking of Flembers, it is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+firstTopic,Flembers,Rebosen,Speaking of Flembers, it is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+secondTopic,Flembers,Rebosen,Speaking of Rebosen,Flembers is associated with it.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+secondTopic,Flembers,Rebosen,Speaking of Rebosen,Flembers is associated with it.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+firstTopic,Flembers,Denoden,Speaking of Flembers, it is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+firstTopic,Flembers,Denoden,Speaking of Flembers, it is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+secondTopic,Flembers,Denoden,Speaking of Denoden,Flembers is associated with it.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+secondTopic,Flembers,Denoden,Speaking of Denoden,Flembers is associated with it.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+firstTopic,Flembers,Agoriv,Speaking of Flembers, it is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+firstTopic,Flembers,Agoriv,Speaking of Flembers, it is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+secondTopic,Flembers,Agoriv,Speaking of Agoriv,Flembers is associated with it.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+secondTopic,Flembers,Agoriv,Speaking of Agoriv,Flembers is associated with it.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+firstTopic,Flembers,Ceflar,Speaking of Flembers, it is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+firstTopic,Flembers,Ceflar,Speaking of Flembers, it is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+secondTopic,Flembers,Ceflar,Speaking of Ceflar,Flembers is associated with it.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+secondTopic,Flembers,Ceflar,Speaking of Ceflar,Flembers is associated with it.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+firstTopic,Agoriv,Themaglin,Speaking of Agoriv, it is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+firstTopic,Agoriv,Themaglin,Speaking of Agoriv, it is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+secondTopic,Agoriv,Themaglin,Speaking of Themaglin,Agoriv is associated with it.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+secondTopic,Agoriv,Themaglin,Speaking of Themaglin,Agoriv is associated with it.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+firstTopic,Agoriv,Rebosen,Speaking of Agoriv, it is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+firstTopic,Agoriv,Rebosen,Speaking of Agoriv, it is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+secondTopic,Agoriv,Rebosen,Speaking of Rebosen,Agoriv is associated with it.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+secondTopic,Agoriv,Rebosen,Speaking of Rebosen,Agoriv is associated with it.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+firstTopic,Agoriv,Denoden,Speaking of Agoriv, it is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+firstTopic,Agoriv,Denoden,Speaking of Agoriv, it is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+secondTopic,Agoriv,Denoden,Speaking of Denoden,Agoriv is associated with it.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+secondTopic,Agoriv,Denoden,Speaking of Denoden,Agoriv is associated with it.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+firstTopic,Agoriv,Flembers,Speaking of Agoriv, it is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+firstTopic,Agoriv,Flembers,Speaking of Agoriv, it is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+secondTopic,Agoriv,Flembers,Speaking of Flembers,Agoriv is associated with it.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+secondTopic,Agoriv,Flembers,Speaking of Flembers,Agoriv is associated with it.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+firstTopic,Agoriv,Ceflar,Speaking of Agoriv, it is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+firstTopic,Agoriv,Ceflar,Speaking of Agoriv, it is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+secondTopic,Agoriv,Ceflar,Speaking of Ceflar,Agoriv is associated with it.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+secondTopic,Agoriv,Ceflar,Speaking of Ceflar,Agoriv is associated with it.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+firstTopic,Ceflar,Themaglin,Speaking of Ceflar, it is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+firstTopic,Ceflar,Themaglin,Speaking of Ceflar, it is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+secondTopic,Ceflar,Themaglin,Speaking of Themaglin,Ceflar is associated with it.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+secondTopic,Ceflar,Themaglin,Speaking of Themaglin,Ceflar is associated with it.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+firstTopic,Ceflar,Rebosen,Speaking of Ceflar, it is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+firstTopic,Ceflar,Rebosen,Speaking of Ceflar, it is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+secondTopic,Ceflar,Rebosen,Speaking of Rebosen,Ceflar is associated with it.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+secondTopic,Ceflar,Rebosen,Speaking of Rebosen,Ceflar is associated with it.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+firstTopic,Ceflar,Denoden,Speaking of Ceflar, it is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+firstTopic,Ceflar,Denoden,Speaking of Ceflar, it is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+secondTopic,Ceflar,Denoden,Speaking of Denoden,Ceflar is associated with it.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+secondTopic,Ceflar,Denoden,Speaking of Denoden,Ceflar is associated with it.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+firstTopic,Ceflar,Flembers,Speaking of Ceflar, it is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+firstTopic,Ceflar,Flembers,Speaking of Ceflar, it is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+secondTopic,Ceflar,Flembers,Speaking of Flembers,Ceflar is associated with it.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+secondTopic,Ceflar,Flembers,Speaking of Flembers,Ceflar is associated with it.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+firstTopic,Ceflar,Agoriv,Speaking of Ceflar, it is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+firstTopic,Ceflar,Agoriv,Speaking of Ceflar, it is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+secondTopic,Ceflar,Agoriv,Speaking of Agoriv,Ceflar is associated with it.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+secondTopic,Ceflar,Agoriv,Speaking of Agoriv,Ceflar is associated with it.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.

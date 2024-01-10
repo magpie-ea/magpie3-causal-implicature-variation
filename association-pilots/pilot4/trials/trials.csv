@@ -1,0 +1,481 @@
+QUDTarget,statementFirst,treatment,name1,name2,QUD,statement,choiceNameFirst,choice1,choice2
+first,first,observation,Themaglin,Rebosen,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+first,first,avoidance,Themaglin,Rebosen,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+second,first,observation,Themaglin,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Themaglin is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+second,first,avoidance,Themaglin,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Themaglin is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+first,second,observation,Themaglin,Rebosen,I was surprised to see Themaglin in yesterday's sample.,Rebosen is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+first,second,avoidance,Themaglin,Rebosen,I am surprised that you think Themaglin should be removed from the samples.,Rebosen is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+second,second,observation,Themaglin,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+second,second,avoidance,Themaglin,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+first,first,observation,Themaglin,Rebosen,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+first,first,avoidance,Themaglin,Rebosen,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+second,first,observation,Themaglin,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Themaglin is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+second,first,avoidance,Themaglin,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Themaglin is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+first,second,observation,Themaglin,Rebosen,I was surprised to see Themaglin in yesterday's sample.,Rebosen is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+first,second,avoidance,Themaglin,Rebosen,I am surprised that you think Themaglin should be removed from the samples.,Rebosen is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+second,second,observation,Themaglin,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+second,second,avoidance,Themaglin,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+first,first,observation,Themaglin,Denoden,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+first,first,avoidance,Themaglin,Denoden,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+second,first,observation,Themaglin,Denoden,I was surprised to see Denoden in yesterday's sample.,Themaglin is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+second,first,avoidance,Themaglin,Denoden,I am surprised that you think Denoden should be removed from the samples.,Themaglin is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+first,second,observation,Themaglin,Denoden,I was surprised to see Themaglin in yesterday's sample.,Denoden is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+first,second,avoidance,Themaglin,Denoden,I am surprised that you think Themaglin should be removed from the samples.,Denoden is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+second,second,observation,Themaglin,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+second,second,avoidance,Themaglin,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+first,first,observation,Themaglin,Denoden,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+first,first,avoidance,Themaglin,Denoden,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+second,first,observation,Themaglin,Denoden,I was surprised to see Denoden in yesterday's sample.,Themaglin is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+second,first,avoidance,Themaglin,Denoden,I am surprised that you think Denoden should be removed from the samples.,Themaglin is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+first,second,observation,Themaglin,Denoden,I was surprised to see Themaglin in yesterday's sample.,Denoden is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+first,second,avoidance,Themaglin,Denoden,I am surprised that you think Themaglin should be removed from the samples.,Denoden is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+second,second,observation,Themaglin,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+second,second,avoidance,Themaglin,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+first,first,observation,Themaglin,Flembers,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+first,first,avoidance,Themaglin,Flembers,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+second,first,observation,Themaglin,Flembers,I was surprised to see Flembers in yesterday's sample.,Themaglin is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+second,first,avoidance,Themaglin,Flembers,I am surprised that you think Flembers should be removed from the samples.,Themaglin is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+first,second,observation,Themaglin,Flembers,I was surprised to see Themaglin in yesterday's sample.,Flembers is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+first,second,avoidance,Themaglin,Flembers,I am surprised that you think Themaglin should be removed from the samples.,Flembers is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+second,second,observation,Themaglin,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+second,second,avoidance,Themaglin,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+first,first,observation,Themaglin,Flembers,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+first,first,avoidance,Themaglin,Flembers,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+second,first,observation,Themaglin,Flembers,I was surprised to see Flembers in yesterday's sample.,Themaglin is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+second,first,avoidance,Themaglin,Flembers,I am surprised that you think Flembers should be removed from the samples.,Themaglin is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+first,second,observation,Themaglin,Flembers,I was surprised to see Themaglin in yesterday's sample.,Flembers is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+first,second,avoidance,Themaglin,Flembers,I am surprised that you think Themaglin should be removed from the samples.,Flembers is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+second,second,observation,Themaglin,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+second,second,avoidance,Themaglin,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+first,first,observation,Themaglin,Agoriv,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+first,first,avoidance,Themaglin,Agoriv,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+second,first,observation,Themaglin,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Themaglin is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+second,first,avoidance,Themaglin,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Themaglin is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+first,second,observation,Themaglin,Agoriv,I was surprised to see Themaglin in yesterday's sample.,Agoriv is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+first,second,avoidance,Themaglin,Agoriv,I am surprised that you think Themaglin should be removed from the samples.,Agoriv is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+second,second,observation,Themaglin,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+second,second,avoidance,Themaglin,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+first,first,observation,Themaglin,Agoriv,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+first,first,avoidance,Themaglin,Agoriv,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+second,first,observation,Themaglin,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Themaglin is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+second,first,avoidance,Themaglin,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Themaglin is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+first,second,observation,Themaglin,Agoriv,I was surprised to see Themaglin in yesterday's sample.,Agoriv is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+first,second,avoidance,Themaglin,Agoriv,I am surprised that you think Themaglin should be removed from the samples.,Agoriv is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+second,second,observation,Themaglin,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+second,second,avoidance,Themaglin,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+first,first,observation,Themaglin,Ceflar,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+first,first,avoidance,Themaglin,Ceflar,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+second,first,observation,Themaglin,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Themaglin is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+second,first,avoidance,Themaglin,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Themaglin is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+first,second,observation,Themaglin,Ceflar,I was surprised to see Themaglin in yesterday's sample.,Ceflar is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+first,second,avoidance,Themaglin,Ceflar,I am surprised that you think Themaglin should be removed from the samples.,Ceflar is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+second,second,observation,Themaglin,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+second,second,avoidance,Themaglin,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+first,first,observation,Themaglin,Ceflar,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+first,first,avoidance,Themaglin,Ceflar,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+second,first,observation,Themaglin,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Themaglin is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+second,first,avoidance,Themaglin,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Themaglin is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+first,second,observation,Themaglin,Ceflar,I was surprised to see Themaglin in yesterday's sample.,Ceflar is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+first,second,avoidance,Themaglin,Ceflar,I am surprised that you think Themaglin should be removed from the samples.,Ceflar is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+second,second,observation,Themaglin,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+second,second,avoidance,Themaglin,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+first,first,observation,Rebosen,Themaglin,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+first,first,avoidance,Rebosen,Themaglin,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+second,first,observation,Rebosen,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Rebosen is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+second,first,avoidance,Rebosen,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Rebosen is associated with Themaglin.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+first,second,observation,Rebosen,Themaglin,I was surprised to see Rebosen in yesterday's sample.,Themaglin is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+first,second,avoidance,Rebosen,Themaglin,I am surprised that you think Rebosen should be removed from the samples.,Themaglin is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+second,second,observation,Rebosen,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+second,second,avoidance,Rebosen,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Rebosen.,Rebosen,Rebosen causes Themaglin.,Themaglin causes Rebosen.
+first,first,observation,Rebosen,Themaglin,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+first,first,avoidance,Rebosen,Themaglin,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+second,first,observation,Rebosen,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Rebosen is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+second,first,avoidance,Rebosen,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Rebosen is associated with Themaglin.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+first,second,observation,Rebosen,Themaglin,I was surprised to see Rebosen in yesterday's sample.,Themaglin is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+first,second,avoidance,Rebosen,Themaglin,I am surprised that you think Rebosen should be removed from the samples.,Themaglin is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+second,second,observation,Rebosen,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+second,second,avoidance,Rebosen,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Rebosen.,Themaglin,Themaglin causes Rebosen.,Rebosen causes Themaglin.
+first,first,observation,Rebosen,Denoden,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+first,first,avoidance,Rebosen,Denoden,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+second,first,observation,Rebosen,Denoden,I was surprised to see Denoden in yesterday's sample.,Rebosen is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+second,first,avoidance,Rebosen,Denoden,I am surprised that you think Denoden should be removed from the samples.,Rebosen is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+first,second,observation,Rebosen,Denoden,I was surprised to see Rebosen in yesterday's sample.,Denoden is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+first,second,avoidance,Rebosen,Denoden,I am surprised that you think Rebosen should be removed from the samples.,Denoden is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+second,second,observation,Rebosen,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+second,second,avoidance,Rebosen,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+first,first,observation,Rebosen,Denoden,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+first,first,avoidance,Rebosen,Denoden,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+second,first,observation,Rebosen,Denoden,I was surprised to see Denoden in yesterday's sample.,Rebosen is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+second,first,avoidance,Rebosen,Denoden,I am surprised that you think Denoden should be removed from the samples.,Rebosen is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+first,second,observation,Rebosen,Denoden,I was surprised to see Rebosen in yesterday's sample.,Denoden is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+first,second,avoidance,Rebosen,Denoden,I am surprised that you think Rebosen should be removed from the samples.,Denoden is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+second,second,observation,Rebosen,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+second,second,avoidance,Rebosen,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+first,first,observation,Rebosen,Flembers,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+first,first,avoidance,Rebosen,Flembers,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+second,first,observation,Rebosen,Flembers,I was surprised to see Flembers in yesterday's sample.,Rebosen is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+second,first,avoidance,Rebosen,Flembers,I am surprised that you think Flembers should be removed from the samples.,Rebosen is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+first,second,observation,Rebosen,Flembers,I was surprised to see Rebosen in yesterday's sample.,Flembers is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+first,second,avoidance,Rebosen,Flembers,I am surprised that you think Rebosen should be removed from the samples.,Flembers is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+second,second,observation,Rebosen,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+second,second,avoidance,Rebosen,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+first,first,observation,Rebosen,Flembers,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+first,first,avoidance,Rebosen,Flembers,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+second,first,observation,Rebosen,Flembers,I was surprised to see Flembers in yesterday's sample.,Rebosen is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+second,first,avoidance,Rebosen,Flembers,I am surprised that you think Flembers should be removed from the samples.,Rebosen is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+first,second,observation,Rebosen,Flembers,I was surprised to see Rebosen in yesterday's sample.,Flembers is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+first,second,avoidance,Rebosen,Flembers,I am surprised that you think Rebosen should be removed from the samples.,Flembers is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+second,second,observation,Rebosen,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+second,second,avoidance,Rebosen,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+first,first,observation,Rebosen,Agoriv,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+first,first,avoidance,Rebosen,Agoriv,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+second,first,observation,Rebosen,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Rebosen is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+second,first,avoidance,Rebosen,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Rebosen is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+first,second,observation,Rebosen,Agoriv,I was surprised to see Rebosen in yesterday's sample.,Agoriv is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+first,second,avoidance,Rebosen,Agoriv,I am surprised that you think Rebosen should be removed from the samples.,Agoriv is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+second,second,observation,Rebosen,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+second,second,avoidance,Rebosen,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+first,first,observation,Rebosen,Agoriv,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+first,first,avoidance,Rebosen,Agoriv,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+second,first,observation,Rebosen,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Rebosen is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+second,first,avoidance,Rebosen,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Rebosen is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+first,second,observation,Rebosen,Agoriv,I was surprised to see Rebosen in yesterday's sample.,Agoriv is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+first,second,avoidance,Rebosen,Agoriv,I am surprised that you think Rebosen should be removed from the samples.,Agoriv is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+second,second,observation,Rebosen,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+second,second,avoidance,Rebosen,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+first,first,observation,Rebosen,Ceflar,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+first,first,avoidance,Rebosen,Ceflar,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+second,first,observation,Rebosen,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Rebosen is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+second,first,avoidance,Rebosen,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Rebosen is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+first,second,observation,Rebosen,Ceflar,I was surprised to see Rebosen in yesterday's sample.,Ceflar is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+first,second,avoidance,Rebosen,Ceflar,I am surprised that you think Rebosen should be removed from the samples.,Ceflar is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+second,second,observation,Rebosen,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+second,second,avoidance,Rebosen,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+first,first,observation,Rebosen,Ceflar,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+first,first,avoidance,Rebosen,Ceflar,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+second,first,observation,Rebosen,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Rebosen is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+second,first,avoidance,Rebosen,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Rebosen is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+first,second,observation,Rebosen,Ceflar,I was surprised to see Rebosen in yesterday's sample.,Ceflar is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+first,second,avoidance,Rebosen,Ceflar,I am surprised that you think Rebosen should be removed from the samples.,Ceflar is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+second,second,observation,Rebosen,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+second,second,avoidance,Rebosen,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+first,first,observation,Denoden,Themaglin,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+first,first,avoidance,Denoden,Themaglin,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+second,first,observation,Denoden,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Denoden is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+second,first,avoidance,Denoden,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Denoden is associated with Themaglin.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+first,second,observation,Denoden,Themaglin,I was surprised to see Denoden in yesterday's sample.,Themaglin is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+first,second,avoidance,Denoden,Themaglin,I am surprised that you think Denoden should be removed from the samples.,Themaglin is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+second,second,observation,Denoden,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+second,second,avoidance,Denoden,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Denoden.,Denoden,Denoden causes Themaglin.,Themaglin causes Denoden.
+first,first,observation,Denoden,Themaglin,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+first,first,avoidance,Denoden,Themaglin,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+second,first,observation,Denoden,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Denoden is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+second,first,avoidance,Denoden,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Denoden is associated with Themaglin.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+first,second,observation,Denoden,Themaglin,I was surprised to see Denoden in yesterday's sample.,Themaglin is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+first,second,avoidance,Denoden,Themaglin,I am surprised that you think Denoden should be removed from the samples.,Themaglin is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+second,second,observation,Denoden,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+second,second,avoidance,Denoden,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Denoden.,Themaglin,Themaglin causes Denoden.,Denoden causes Themaglin.
+first,first,observation,Denoden,Rebosen,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+first,first,avoidance,Denoden,Rebosen,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+second,first,observation,Denoden,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Denoden is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+second,first,avoidance,Denoden,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Denoden is associated with Rebosen.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+first,second,observation,Denoden,Rebosen,I was surprised to see Denoden in yesterday's sample.,Rebosen is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+first,second,avoidance,Denoden,Rebosen,I am surprised that you think Denoden should be removed from the samples.,Rebosen is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+second,second,observation,Denoden,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+second,second,avoidance,Denoden,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Denoden.,Denoden,Denoden causes Rebosen.,Rebosen causes Denoden.
+first,first,observation,Denoden,Rebosen,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+first,first,avoidance,Denoden,Rebosen,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+second,first,observation,Denoden,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Denoden is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+second,first,avoidance,Denoden,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Denoden is associated with Rebosen.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+first,second,observation,Denoden,Rebosen,I was surprised to see Denoden in yesterday's sample.,Rebosen is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+first,second,avoidance,Denoden,Rebosen,I am surprised that you think Denoden should be removed from the samples.,Rebosen is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+second,second,observation,Denoden,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+second,second,avoidance,Denoden,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Denoden.,Rebosen,Rebosen causes Denoden.,Denoden causes Rebosen.
+first,first,observation,Denoden,Flembers,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+first,first,avoidance,Denoden,Flembers,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+second,first,observation,Denoden,Flembers,I was surprised to see Flembers in yesterday's sample.,Denoden is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+second,first,avoidance,Denoden,Flembers,I am surprised that you think Flembers should be removed from the samples.,Denoden is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+first,second,observation,Denoden,Flembers,I was surprised to see Denoden in yesterday's sample.,Flembers is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+first,second,avoidance,Denoden,Flembers,I am surprised that you think Denoden should be removed from the samples.,Flembers is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+second,second,observation,Denoden,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+second,second,avoidance,Denoden,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+first,first,observation,Denoden,Flembers,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+first,first,avoidance,Denoden,Flembers,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+second,first,observation,Denoden,Flembers,I was surprised to see Flembers in yesterday's sample.,Denoden is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+second,first,avoidance,Denoden,Flembers,I am surprised that you think Flembers should be removed from the samples.,Denoden is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+first,second,observation,Denoden,Flembers,I was surprised to see Denoden in yesterday's sample.,Flembers is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+first,second,avoidance,Denoden,Flembers,I am surprised that you think Denoden should be removed from the samples.,Flembers is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+second,second,observation,Denoden,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+second,second,avoidance,Denoden,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+first,first,observation,Denoden,Agoriv,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+first,first,avoidance,Denoden,Agoriv,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+second,first,observation,Denoden,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Denoden is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+second,first,avoidance,Denoden,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Denoden is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+first,second,observation,Denoden,Agoriv,I was surprised to see Denoden in yesterday's sample.,Agoriv is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+first,second,avoidance,Denoden,Agoriv,I am surprised that you think Denoden should be removed from the samples.,Agoriv is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+second,second,observation,Denoden,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+second,second,avoidance,Denoden,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+first,first,observation,Denoden,Agoriv,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+first,first,avoidance,Denoden,Agoriv,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+second,first,observation,Denoden,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Denoden is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+second,first,avoidance,Denoden,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Denoden is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+first,second,observation,Denoden,Agoriv,I was surprised to see Denoden in yesterday's sample.,Agoriv is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+first,second,avoidance,Denoden,Agoriv,I am surprised that you think Denoden should be removed from the samples.,Agoriv is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+second,second,observation,Denoden,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+second,second,avoidance,Denoden,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+first,first,observation,Denoden,Ceflar,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+first,first,avoidance,Denoden,Ceflar,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+second,first,observation,Denoden,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Denoden is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+second,first,avoidance,Denoden,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Denoden is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+first,second,observation,Denoden,Ceflar,I was surprised to see Denoden in yesterday's sample.,Ceflar is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+first,second,avoidance,Denoden,Ceflar,I am surprised that you think Denoden should be removed from the samples.,Ceflar is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+second,second,observation,Denoden,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+second,second,avoidance,Denoden,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+first,first,observation,Denoden,Ceflar,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+first,first,avoidance,Denoden,Ceflar,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+second,first,observation,Denoden,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Denoden is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+second,first,avoidance,Denoden,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Denoden is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+first,second,observation,Denoden,Ceflar,I was surprised to see Denoden in yesterday's sample.,Ceflar is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+first,second,avoidance,Denoden,Ceflar,I am surprised that you think Denoden should be removed from the samples.,Ceflar is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+second,second,observation,Denoden,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+second,second,avoidance,Denoden,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+first,first,observation,Flembers,Themaglin,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+first,first,avoidance,Flembers,Themaglin,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+second,first,observation,Flembers,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Flembers is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+second,first,avoidance,Flembers,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Flembers is associated with Themaglin.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+first,second,observation,Flembers,Themaglin,I was surprised to see Flembers in yesterday's sample.,Themaglin is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+first,second,avoidance,Flembers,Themaglin,I am surprised that you think Flembers should be removed from the samples.,Themaglin is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+second,second,observation,Flembers,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+second,second,avoidance,Flembers,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Flembers.,Flembers,Flembers causes Themaglin.,Themaglin causes Flembers.
+first,first,observation,Flembers,Themaglin,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+first,first,avoidance,Flembers,Themaglin,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+second,first,observation,Flembers,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Flembers is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+second,first,avoidance,Flembers,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Flembers is associated with Themaglin.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+first,second,observation,Flembers,Themaglin,I was surprised to see Flembers in yesterday's sample.,Themaglin is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+first,second,avoidance,Flembers,Themaglin,I am surprised that you think Flembers should be removed from the samples.,Themaglin is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+second,second,observation,Flembers,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+second,second,avoidance,Flembers,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Flembers.,Themaglin,Themaglin causes Flembers.,Flembers causes Themaglin.
+first,first,observation,Flembers,Rebosen,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+first,first,avoidance,Flembers,Rebosen,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+second,first,observation,Flembers,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Flembers is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+second,first,avoidance,Flembers,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Flembers is associated with Rebosen.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+first,second,observation,Flembers,Rebosen,I was surprised to see Flembers in yesterday's sample.,Rebosen is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+first,second,avoidance,Flembers,Rebosen,I am surprised that you think Flembers should be removed from the samples.,Rebosen is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+second,second,observation,Flembers,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+second,second,avoidance,Flembers,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Flembers.,Flembers,Flembers causes Rebosen.,Rebosen causes Flembers.
+first,first,observation,Flembers,Rebosen,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+first,first,avoidance,Flembers,Rebosen,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+second,first,observation,Flembers,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Flembers is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+second,first,avoidance,Flembers,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Flembers is associated with Rebosen.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+first,second,observation,Flembers,Rebosen,I was surprised to see Flembers in yesterday's sample.,Rebosen is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+first,second,avoidance,Flembers,Rebosen,I am surprised that you think Flembers should be removed from the samples.,Rebosen is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+second,second,observation,Flembers,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+second,second,avoidance,Flembers,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Flembers.,Rebosen,Rebosen causes Flembers.,Flembers causes Rebosen.
+first,first,observation,Flembers,Denoden,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+first,first,avoidance,Flembers,Denoden,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+second,first,observation,Flembers,Denoden,I was surprised to see Denoden in yesterday's sample.,Flembers is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+second,first,avoidance,Flembers,Denoden,I am surprised that you think Denoden should be removed from the samples.,Flembers is associated with Denoden.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+first,second,observation,Flembers,Denoden,I was surprised to see Flembers in yesterday's sample.,Denoden is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+first,second,avoidance,Flembers,Denoden,I am surprised that you think Flembers should be removed from the samples.,Denoden is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+second,second,observation,Flembers,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+second,second,avoidance,Flembers,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Flembers.,Flembers,Flembers causes Denoden.,Denoden causes Flembers.
+first,first,observation,Flembers,Denoden,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+first,first,avoidance,Flembers,Denoden,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+second,first,observation,Flembers,Denoden,I was surprised to see Denoden in yesterday's sample.,Flembers is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+second,first,avoidance,Flembers,Denoden,I am surprised that you think Denoden should be removed from the samples.,Flembers is associated with Denoden.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+first,second,observation,Flembers,Denoden,I was surprised to see Flembers in yesterday's sample.,Denoden is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+first,second,avoidance,Flembers,Denoden,I am surprised that you think Flembers should be removed from the samples.,Denoden is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+second,second,observation,Flembers,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+second,second,avoidance,Flembers,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Flembers.,Denoden,Denoden causes Flembers.,Flembers causes Denoden.
+first,first,observation,Flembers,Agoriv,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+first,first,avoidance,Flembers,Agoriv,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+second,first,observation,Flembers,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Flembers is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+second,first,avoidance,Flembers,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Flembers is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+first,second,observation,Flembers,Agoriv,I was surprised to see Flembers in yesterday's sample.,Agoriv is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+first,second,avoidance,Flembers,Agoriv,I am surprised that you think Flembers should be removed from the samples.,Agoriv is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+second,second,observation,Flembers,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+second,second,avoidance,Flembers,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+first,first,observation,Flembers,Agoriv,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+first,first,avoidance,Flembers,Agoriv,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+second,first,observation,Flembers,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Flembers is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+second,first,avoidance,Flembers,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Flembers is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+first,second,observation,Flembers,Agoriv,I was surprised to see Flembers in yesterday's sample.,Agoriv is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+first,second,avoidance,Flembers,Agoriv,I am surprised that you think Flembers should be removed from the samples.,Agoriv is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+second,second,observation,Flembers,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+second,second,avoidance,Flembers,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+first,first,observation,Flembers,Ceflar,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+first,first,avoidance,Flembers,Ceflar,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+second,first,observation,Flembers,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Flembers is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+second,first,avoidance,Flembers,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Flembers is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+first,second,observation,Flembers,Ceflar,I was surprised to see Flembers in yesterday's sample.,Ceflar is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+first,second,avoidance,Flembers,Ceflar,I am surprised that you think Flembers should be removed from the samples.,Ceflar is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+second,second,observation,Flembers,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+second,second,avoidance,Flembers,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+first,first,observation,Flembers,Ceflar,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+first,first,avoidance,Flembers,Ceflar,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+second,first,observation,Flembers,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Flembers is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+second,first,avoidance,Flembers,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Flembers is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+first,second,observation,Flembers,Ceflar,I was surprised to see Flembers in yesterday's sample.,Ceflar is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+first,second,avoidance,Flembers,Ceflar,I am surprised that you think Flembers should be removed from the samples.,Ceflar is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+second,second,observation,Flembers,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+second,second,avoidance,Flembers,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+first,first,observation,Agoriv,Themaglin,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+first,first,avoidance,Agoriv,Themaglin,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+second,first,observation,Agoriv,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Agoriv is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+second,first,avoidance,Agoriv,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Agoriv is associated with Themaglin.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+first,second,observation,Agoriv,Themaglin,I was surprised to see Agoriv in yesterday's sample.,Themaglin is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+first,second,avoidance,Agoriv,Themaglin,I am surprised that you think Agoriv should be removed from the samples.,Themaglin is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+second,second,observation,Agoriv,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+second,second,avoidance,Agoriv,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Agoriv.,Agoriv,Agoriv causes Themaglin.,Themaglin causes Agoriv.
+first,first,observation,Agoriv,Themaglin,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+first,first,avoidance,Agoriv,Themaglin,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+second,first,observation,Agoriv,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Agoriv is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+second,first,avoidance,Agoriv,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Agoriv is associated with Themaglin.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+first,second,observation,Agoriv,Themaglin,I was surprised to see Agoriv in yesterday's sample.,Themaglin is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+first,second,avoidance,Agoriv,Themaglin,I am surprised that you think Agoriv should be removed from the samples.,Themaglin is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+second,second,observation,Agoriv,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+second,second,avoidance,Agoriv,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Agoriv.,Themaglin,Themaglin causes Agoriv.,Agoriv causes Themaglin.
+first,first,observation,Agoriv,Rebosen,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+first,first,avoidance,Agoriv,Rebosen,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+second,first,observation,Agoriv,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Agoriv is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+second,first,avoidance,Agoriv,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Agoriv is associated with Rebosen.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+first,second,observation,Agoriv,Rebosen,I was surprised to see Agoriv in yesterday's sample.,Rebosen is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+first,second,avoidance,Agoriv,Rebosen,I am surprised that you think Agoriv should be removed from the samples.,Rebosen is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+second,second,observation,Agoriv,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+second,second,avoidance,Agoriv,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Agoriv.,Agoriv,Agoriv causes Rebosen.,Rebosen causes Agoriv.
+first,first,observation,Agoriv,Rebosen,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+first,first,avoidance,Agoriv,Rebosen,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+second,first,observation,Agoriv,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Agoriv is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+second,first,avoidance,Agoriv,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Agoriv is associated with Rebosen.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+first,second,observation,Agoriv,Rebosen,I was surprised to see Agoriv in yesterday's sample.,Rebosen is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+first,second,avoidance,Agoriv,Rebosen,I am surprised that you think Agoriv should be removed from the samples.,Rebosen is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+second,second,observation,Agoriv,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+second,second,avoidance,Agoriv,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Agoriv.,Rebosen,Rebosen causes Agoriv.,Agoriv causes Rebosen.
+first,first,observation,Agoriv,Denoden,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+first,first,avoidance,Agoriv,Denoden,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+second,first,observation,Agoriv,Denoden,I was surprised to see Denoden in yesterday's sample.,Agoriv is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+second,first,avoidance,Agoriv,Denoden,I am surprised that you think Denoden should be removed from the samples.,Agoriv is associated with Denoden.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+first,second,observation,Agoriv,Denoden,I was surprised to see Agoriv in yesterday's sample.,Denoden is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+first,second,avoidance,Agoriv,Denoden,I am surprised that you think Agoriv should be removed from the samples.,Denoden is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+second,second,observation,Agoriv,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+second,second,avoidance,Agoriv,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Agoriv.,Agoriv,Agoriv causes Denoden.,Denoden causes Agoriv.
+first,first,observation,Agoriv,Denoden,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+first,first,avoidance,Agoriv,Denoden,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+second,first,observation,Agoriv,Denoden,I was surprised to see Denoden in yesterday's sample.,Agoriv is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+second,first,avoidance,Agoriv,Denoden,I am surprised that you think Denoden should be removed from the samples.,Agoriv is associated with Denoden.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+first,second,observation,Agoriv,Denoden,I was surprised to see Agoriv in yesterday's sample.,Denoden is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+first,second,avoidance,Agoriv,Denoden,I am surprised that you think Agoriv should be removed from the samples.,Denoden is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+second,second,observation,Agoriv,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+second,second,avoidance,Agoriv,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Agoriv.,Denoden,Denoden causes Agoriv.,Agoriv causes Denoden.
+first,first,observation,Agoriv,Flembers,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+first,first,avoidance,Agoriv,Flembers,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+second,first,observation,Agoriv,Flembers,I was surprised to see Flembers in yesterday's sample.,Agoriv is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+second,first,avoidance,Agoriv,Flembers,I am surprised that you think Flembers should be removed from the samples.,Agoriv is associated with Flembers.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+first,second,observation,Agoriv,Flembers,I was surprised to see Agoriv in yesterday's sample.,Flembers is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+first,second,avoidance,Agoriv,Flembers,I am surprised that you think Agoriv should be removed from the samples.,Flembers is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+second,second,observation,Agoriv,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+second,second,avoidance,Agoriv,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Agoriv.,Agoriv,Agoriv causes Flembers.,Flembers causes Agoriv.
+first,first,observation,Agoriv,Flembers,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+first,first,avoidance,Agoriv,Flembers,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+second,first,observation,Agoriv,Flembers,I was surprised to see Flembers in yesterday's sample.,Agoriv is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+second,first,avoidance,Agoriv,Flembers,I am surprised that you think Flembers should be removed from the samples.,Agoriv is associated with Flembers.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+first,second,observation,Agoriv,Flembers,I was surprised to see Agoriv in yesterday's sample.,Flembers is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+first,second,avoidance,Agoriv,Flembers,I am surprised that you think Agoriv should be removed from the samples.,Flembers is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+second,second,observation,Agoriv,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+second,second,avoidance,Agoriv,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Agoriv.,Flembers,Flembers causes Agoriv.,Agoriv causes Flembers.
+first,first,observation,Agoriv,Ceflar,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+first,first,avoidance,Agoriv,Ceflar,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+second,first,observation,Agoriv,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Agoriv is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+second,first,avoidance,Agoriv,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Agoriv is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+first,second,observation,Agoriv,Ceflar,I was surprised to see Agoriv in yesterday's sample.,Ceflar is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+first,second,avoidance,Agoriv,Ceflar,I am surprised that you think Agoriv should be removed from the samples.,Ceflar is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+second,second,observation,Agoriv,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+second,second,avoidance,Agoriv,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+first,first,observation,Agoriv,Ceflar,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+first,first,avoidance,Agoriv,Ceflar,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+second,first,observation,Agoriv,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Agoriv is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+second,first,avoidance,Agoriv,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Agoriv is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+first,second,observation,Agoriv,Ceflar,I was surprised to see Agoriv in yesterday's sample.,Ceflar is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+first,second,avoidance,Agoriv,Ceflar,I am surprised that you think Agoriv should be removed from the samples.,Ceflar is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+second,second,observation,Agoriv,Ceflar,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+second,second,avoidance,Agoriv,Ceflar,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+first,first,observation,Ceflar,Themaglin,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+first,first,avoidance,Ceflar,Themaglin,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+second,first,observation,Ceflar,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Ceflar is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+second,first,avoidance,Ceflar,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Ceflar is associated with Themaglin.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+first,second,observation,Ceflar,Themaglin,I was surprised to see Ceflar in yesterday's sample.,Themaglin is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+first,second,avoidance,Ceflar,Themaglin,I am surprised that you think Ceflar should be removed from the samples.,Themaglin is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+second,second,observation,Ceflar,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+second,second,avoidance,Ceflar,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Ceflar.,Ceflar,Ceflar causes Themaglin.,Themaglin causes Ceflar.
+first,first,observation,Ceflar,Themaglin,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+first,first,avoidance,Ceflar,Themaglin,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+second,first,observation,Ceflar,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Ceflar is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+second,first,avoidance,Ceflar,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Ceflar is associated with Themaglin.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+first,second,observation,Ceflar,Themaglin,I was surprised to see Ceflar in yesterday's sample.,Themaglin is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+first,second,avoidance,Ceflar,Themaglin,I am surprised that you think Ceflar should be removed from the samples.,Themaglin is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+second,second,observation,Ceflar,Themaglin,I was surprised to see Themaglin in yesterday's sample.,Themaglin is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+second,second,avoidance,Ceflar,Themaglin,I am surprised that you think Themaglin should be removed from the samples.,Themaglin is associated with Ceflar.,Themaglin,Themaglin causes Ceflar.,Ceflar causes Themaglin.
+first,first,observation,Ceflar,Rebosen,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+first,first,avoidance,Ceflar,Rebosen,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+second,first,observation,Ceflar,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Ceflar is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+second,first,avoidance,Ceflar,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Ceflar is associated with Rebosen.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+first,second,observation,Ceflar,Rebosen,I was surprised to see Ceflar in yesterday's sample.,Rebosen is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+first,second,avoidance,Ceflar,Rebosen,I am surprised that you think Ceflar should be removed from the samples.,Rebosen is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+second,second,observation,Ceflar,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+second,second,avoidance,Ceflar,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Ceflar.,Ceflar,Ceflar causes Rebosen.,Rebosen causes Ceflar.
+first,first,observation,Ceflar,Rebosen,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+first,first,avoidance,Ceflar,Rebosen,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+second,first,observation,Ceflar,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Ceflar is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+second,first,avoidance,Ceflar,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Ceflar is associated with Rebosen.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+first,second,observation,Ceflar,Rebosen,I was surprised to see Ceflar in yesterday's sample.,Rebosen is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+first,second,avoidance,Ceflar,Rebosen,I am surprised that you think Ceflar should be removed from the samples.,Rebosen is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+second,second,observation,Ceflar,Rebosen,I was surprised to see Rebosen in yesterday's sample.,Rebosen is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+second,second,avoidance,Ceflar,Rebosen,I am surprised that you think Rebosen should be removed from the samples.,Rebosen is associated with Ceflar.,Rebosen,Rebosen causes Ceflar.,Ceflar causes Rebosen.
+first,first,observation,Ceflar,Denoden,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+first,first,avoidance,Ceflar,Denoden,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+second,first,observation,Ceflar,Denoden,I was surprised to see Denoden in yesterday's sample.,Ceflar is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+second,first,avoidance,Ceflar,Denoden,I am surprised that you think Denoden should be removed from the samples.,Ceflar is associated with Denoden.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+first,second,observation,Ceflar,Denoden,I was surprised to see Ceflar in yesterday's sample.,Denoden is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+first,second,avoidance,Ceflar,Denoden,I am surprised that you think Ceflar should be removed from the samples.,Denoden is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+second,second,observation,Ceflar,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+second,second,avoidance,Ceflar,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Ceflar.,Ceflar,Ceflar causes Denoden.,Denoden causes Ceflar.
+first,first,observation,Ceflar,Denoden,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+first,first,avoidance,Ceflar,Denoden,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+second,first,observation,Ceflar,Denoden,I was surprised to see Denoden in yesterday's sample.,Ceflar is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+second,first,avoidance,Ceflar,Denoden,I am surprised that you think Denoden should be removed from the samples.,Ceflar is associated with Denoden.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+first,second,observation,Ceflar,Denoden,I was surprised to see Ceflar in yesterday's sample.,Denoden is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+first,second,avoidance,Ceflar,Denoden,I am surprised that you think Ceflar should be removed from the samples.,Denoden is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+second,second,observation,Ceflar,Denoden,I was surprised to see Denoden in yesterday's sample.,Denoden is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+second,second,avoidance,Ceflar,Denoden,I am surprised that you think Denoden should be removed from the samples.,Denoden is associated with Ceflar.,Denoden,Denoden causes Ceflar.,Ceflar causes Denoden.
+first,first,observation,Ceflar,Flembers,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+first,first,avoidance,Ceflar,Flembers,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+second,first,observation,Ceflar,Flembers,I was surprised to see Flembers in yesterday's sample.,Ceflar is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+second,first,avoidance,Ceflar,Flembers,I am surprised that you think Flembers should be removed from the samples.,Ceflar is associated with Flembers.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+first,second,observation,Ceflar,Flembers,I was surprised to see Ceflar in yesterday's sample.,Flembers is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+first,second,avoidance,Ceflar,Flembers,I am surprised that you think Ceflar should be removed from the samples.,Flembers is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+second,second,observation,Ceflar,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+second,second,avoidance,Ceflar,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Ceflar.,Ceflar,Ceflar causes Flembers.,Flembers causes Ceflar.
+first,first,observation,Ceflar,Flembers,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+first,first,avoidance,Ceflar,Flembers,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+second,first,observation,Ceflar,Flembers,I was surprised to see Flembers in yesterday's sample.,Ceflar is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+second,first,avoidance,Ceflar,Flembers,I am surprised that you think Flembers should be removed from the samples.,Ceflar is associated with Flembers.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+first,second,observation,Ceflar,Flembers,I was surprised to see Ceflar in yesterday's sample.,Flembers is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+first,second,avoidance,Ceflar,Flembers,I am surprised that you think Ceflar should be removed from the samples.,Flembers is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+second,second,observation,Ceflar,Flembers,I was surprised to see Flembers in yesterday's sample.,Flembers is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+second,second,avoidance,Ceflar,Flembers,I am surprised that you think Flembers should be removed from the samples.,Flembers is associated with Ceflar.,Flembers,Flembers causes Ceflar.,Ceflar causes Flembers.
+first,first,observation,Ceflar,Agoriv,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+first,first,avoidance,Ceflar,Agoriv,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+second,first,observation,Ceflar,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Ceflar is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+second,first,avoidance,Ceflar,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Ceflar is associated with Agoriv.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+first,second,observation,Ceflar,Agoriv,I was surprised to see Ceflar in yesterday's sample.,Agoriv is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+first,second,avoidance,Ceflar,Agoriv,I am surprised that you think Ceflar should be removed from the samples.,Agoriv is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+second,second,observation,Ceflar,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+second,second,avoidance,Ceflar,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Ceflar.,Ceflar,Ceflar causes Agoriv.,Agoriv causes Ceflar.
+first,first,observation,Ceflar,Agoriv,I was surprised to see Ceflar in yesterday's sample.,Ceflar is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+first,first,avoidance,Ceflar,Agoriv,I am surprised that you think Ceflar should be removed from the samples.,Ceflar is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+second,first,observation,Ceflar,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Ceflar is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+second,first,avoidance,Ceflar,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Ceflar is associated with Agoriv.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+first,second,observation,Ceflar,Agoriv,I was surprised to see Ceflar in yesterday's sample.,Agoriv is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+first,second,avoidance,Ceflar,Agoriv,I am surprised that you think Ceflar should be removed from the samples.,Agoriv is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+second,second,observation,Ceflar,Agoriv,I was surprised to see Agoriv in yesterday's sample.,Agoriv is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
+second,second,avoidance,Ceflar,Agoriv,I am surprised that you think Agoriv should be removed from the samples.,Agoriv is associated with Ceflar.,Agoriv,Agoriv causes Ceflar.,Ceflar causes Agoriv.
