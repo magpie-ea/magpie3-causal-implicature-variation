@@ -12,7 +12,7 @@ jobs:
     strategy:
       matrix:
         folder:
-          - ./
+          - association-pilots/pilot1/
 
     runs-on: ubuntu-latest
     steps:
