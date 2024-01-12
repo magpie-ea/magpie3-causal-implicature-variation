@@ -13,6 +13,9 @@ jobs:
       matrix:
         folder:
           - association-pilots/pilot1/
+          - association-pilots/pilot2/
+          - association-pilots/pilot3/
+          - association-pilots/pilot4/
 
     runs-on: ubuntu-latest
     steps:
