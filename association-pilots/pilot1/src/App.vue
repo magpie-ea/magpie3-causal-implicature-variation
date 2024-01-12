@@ -50,6 +50,8 @@
 import trials from '../trials/trials.csv';
 import _ from 'lodash';
 
+console.log("association-pilots/pilot1")
+
 export default {
   name: 'App',
   data() {
