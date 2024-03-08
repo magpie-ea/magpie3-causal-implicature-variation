@@ -27,7 +27,7 @@ Try a live version:
   - approval rate: 90% at least
   - number previous submissions: at least 50
 
-#### Exp 1 
+#### Exp 2 
 - 200 participants from Prolific
 - paid 30 pence for 2 min estimated work time
 - requirements 
@@ -37,6 +37,13 @@ Try a live version:
   - number previous submissions: at least 50
   - no participation in previous pilot
 
+#### Exp 3 
+- 400 participants from Prolific
+- same as for Exp 2
+
+#### Exp 4 
+- 400 participants from Prolific
+- same as for Exp 3
 
 #### TODOs
 - pilot2 [topic manip] - 200 participants
