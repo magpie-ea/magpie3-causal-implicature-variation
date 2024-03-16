@@ -30,7 +30,9 @@
             :data="{
               trialNR         : i,
               QUDTarget       : trial.QUDTarget,
+              topic           : trial.topic,
               statementFirst  : trial.statementFirst,
+              condition       : trial.topic == trial.statementFirst ? 'topic-is-subject' : 'topic-is-PP',
               name1           : trial.name1,
               name2           : trial.name2,
               QUD             : trial.QUD,
