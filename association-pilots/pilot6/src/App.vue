@@ -2,6 +2,8 @@
   <Experiment title="causal-implicature-variation">
     <InstructionScreen :title="'Welcome'">
       This is a short short survey where you will read a piece of information and answer a single question about it.
+
+      The task may seem very easy at first, but we ask you to <strong>think about the answer for a moment before you make a decision</strong>.
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
@@ -27,7 +29,8 @@
             :data="{
               trialNR        : i,
               targeted       : trial.targeted,
-              itemType       : trial.itemType,
+              position       : trial.targeted == 'first' ? 'subj' : 'PP',
+              modifier       : trial.itemType,
               name1          : trial.name1,
               name2          : trial.name2,
               prompt         : trial.prompt,

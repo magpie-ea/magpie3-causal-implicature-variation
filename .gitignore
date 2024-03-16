@@ -1,9 +1,2 @@
-*DS.Store
-/.DS_Store
+**/.DS_Store
 node_modules
-*/.DS_Store
-*DS_store
-association-pilots/.DS_store
-*.DS_Store
-*/.DS_Store
-*\\.DS_Store

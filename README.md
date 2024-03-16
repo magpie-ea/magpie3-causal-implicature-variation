@@ -75,4 +75,10 @@ Try a live version:
 
 
 #### Exp 6
+- test items:
+  - "Having A is associated with B"
+  - "Getting A is associated with B"
+  - "A is associated with having B"
+  - "A is associated with getting B"
+- 400 participants from Prolific
 - same as for Exp 2 
