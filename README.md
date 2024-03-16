@@ -15,6 +15,8 @@ Try a live version:
 - [association pilot 2](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot2/)
 - [association pilot 3](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot3/)
 - [association pilot 4](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot4/)
+- [association pilot 5](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot5/)
+- [association pilot 6](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot6/)
 
 ### Experiment information
 
