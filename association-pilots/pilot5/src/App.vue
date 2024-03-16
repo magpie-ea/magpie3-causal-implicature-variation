@@ -1,21 +1,24 @@
 <template>
   <Experiment title="causal-implicature-variation">
     <InstructionScreen :title="'Welcome'">
-      This is a short short survey where you will read a brief conversation between two people answer a single question about how you understand it.
+      This is a short short survey where you will read a short piece of text and answer a single question about it.
+
+      The task may seem very easy at first, but we ask you to <strong>think about the answer for a moment before you make a decision</strong>.
+
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
       <Screen :key="i">
         <Slide>
-          <p style='text-align: left; text-indent: 50px;'>Suppose you overhead two scientists having a discussion about some lab results:</p> 
+          <p style='text-align: left; text-indent: 50px;'>Suppose you overhead two people having a conversation:</p>
           <p style='text-align: left; text-indent: 150px;'>
-            <strong>Scientist 1:</strong> {{ trial.QUD }}
+            <strong>Person 1:</strong> {{ trial.QUD }}
           </p>
           <p style='text-align: left; text-indent: 150px;'>
-            <strong>Scientist 2:</strong> {{ trial.statement }} 
+            <strong>Person 2:</strong> {{ trial.statement }}
           </p> 
           <p style='text-align: left; text-indent: 50px;'>
-            <strong>Question:</strong> Given what the scientists have said, which of the following do you think is more likely?
+            <strong>Question:</strong> Given what was said, which of the following do you think is more likely?
           </p>
           <br>
           <ForcedChoiceInput 
