@@ -66,7 +66,13 @@ Try a live version:
 - same as for Exp 2
 
 #### Exp 5
+- similar to Exp3, but different kind of topic-hood manipuation
+- test items:
+  - "What can you tell me about A?" - "A is associated with B"
+  - "What can you tell me about A?" - "B is associated with A"
+- 200 participants from Prolific
 - same as for Exp 2 
+
 
 #### Exp 6
 - same as for Exp 2 
