@@ -1,5 +1,5 @@
 # magpie3-causal-implicature-variation
-Variations on experiment investigating whether causal implicatures follow from non-causal language
+Variations on experiments, building on work by [Gershman & Ulman](https://doi.org/10.1371%2Fjournal.pone.0286067),  investigating PACE effects (*Preferences in Assignment of Cause and Effect*) found in non-causal expressions like "A is associated with B".
 
 ### Setup
 
