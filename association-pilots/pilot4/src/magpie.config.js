@@ -5,6 +5,6 @@ export default {
   completionUrl: 'https://app.prolific.com/submissions/complete?cc=CG5EQWIY',
   contactEmail: 'michael.franke@uni-tuebingen.de',
   // Either 'debug', 'directLink' or 'prolific'
-  mode: 'prolific',
+  mode: 'debug',
   language: 'en'
 };
