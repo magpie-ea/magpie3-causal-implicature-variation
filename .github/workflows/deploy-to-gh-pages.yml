@@ -18,6 +18,7 @@ jobs:
           - association-pilots/pilot4/
           - association-pilots/pilot5/
           - association-pilots/pilot6/
+          - association-pilots/pilot7/
 
     runs-on: ubuntu-latest
     steps:
