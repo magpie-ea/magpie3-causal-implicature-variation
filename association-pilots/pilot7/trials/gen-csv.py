@@ -1,14 +1,19 @@
-names = ['Themaglin', 'Rebosen','Denoden','Flembers', 'Agoriv','Ceflar']
-stims = []
-for x in names:
-    for y in names:
-        if x != y:
-            stims.append(['asymmetric', x, y, x + ' is associated with ' + y + '.', x, x + ' causes ' + y + '.', y + ' causes ' + x + '.'])
-            stims.append(['asymmetric', x, y, x + ' is associated with ' + y + '.', y, y + ' causes ' + x + '.', x + ' causes ' + y + '.'])
-            stims.append(['symmetric', x, y, x + ' and ' + y + ' are associated.', x, x + ' causes ' + y + '.', y + ' causes ' + x + '.'])
-            stims.append(['symmetric', x, y, x + ' and ' + y + ' are associated.', y, y + ' causes ' + x + '.', x + ' causes ' + y + '.'])
+import itertools
 
-csv="condition,name1,name2,prompt,choiceNameFirst,choice1,choice2\n"
+names = ['Themaglin', 'Rebosen','Denoden','Flembers', 'Agoriv','Ceflar']
+
+# create a list with all shuffles of the 'names' list
+shuffled_names = list(itertools.permutations(names))
+
+stims = []
+for s in shuffled_names:
+    stims.append([
+        s[0], s[1], s[2], s[3], s[4], s[5],
+        s[4] + ' is associated with ' + s[5] + '.',
+        s[4] + ' causes ' + s[5] + '.',
+        s[5] + ' causes ' + s[4] + '.'])
+
+csv="name1,name2,name3,name4,name5,name6,prompt,choice1,choice2\n"
 for x in stims:
     for y in x:
         csv = csv + y + ","
