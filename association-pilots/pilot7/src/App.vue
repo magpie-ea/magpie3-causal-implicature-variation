@@ -15,7 +15,7 @@
         <!-- trial 1 -->
         <Slide>
           <p>
-            Produce a description to express that <strong>{{ name1 }} causes {{ name2 }}</strong>. (Trial {{i+1}} of 5.)
+            Produce a description to express that <strong>{{ name1 }} causes {{ name2 }}</strong>. (Trial {{i+1}} of 3.)
             <br>
               <strong>Your sentence must start with "{{name1}}"!</strong>
             <br>
@@ -59,7 +59,7 @@
         <!-- trial 1 -->
         <Slide>
           <p>
-            Produce a description to express that <strong>{{ name3 }} causes {{ name4 }}</strong>. (Trial {{i+1}} of 5.)
+            Produce a description to express that <strong>{{ name3 }} causes {{ name4 }}</strong>. (Trial {{i+1}} of 3.)
             <br>
               <strong>Your sentence must start with "{{name4}}"!</strong>
             <br>
