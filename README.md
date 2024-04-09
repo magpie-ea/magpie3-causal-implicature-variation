@@ -17,6 +17,7 @@ Try a live version:
 - [association pilot 4](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot4/)
 - [association pilot 5](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot5/)
 - [association pilot 6](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot6/)
+- [association pilot 7](https://magpie-ea.github.io/magpie3-causal-implicature-variation/association-pilots/pilot7/)
 
 ### Experiment information
 
@@ -73,7 +74,6 @@ Try a live version:
 - 200 participants from Prolific
 - same as for Exp 2 
 
-
 #### Exp 6
 - test items:
   - "Having A is associated with B"
@@ -81,4 +81,11 @@ Try a live version:
   - "A is associated with having B"
   - "A is associated with getting B"
 - 400 participants from Prolific
+- same as for Exp 2 
+
+#### Exp 7
+- test items:
+  - "A is associated with B"
+- preceded by two trial of generating alternative descriptions for "A causes B" with A or B in subject position
+- 100 participants from Prolific
 - same as for Exp 2 
