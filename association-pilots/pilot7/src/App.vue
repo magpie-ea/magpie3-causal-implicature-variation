@@ -6,7 +6,7 @@
     </InstructionScreen>
 
     <InstructionScreen :title="'Task 1'">
-      Your next task is to type five different descriptions to communicate the same idea.
+      Your next task is to type three different descriptions to communicate the same idea.
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials_repeat">
