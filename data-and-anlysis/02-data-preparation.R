@@ -106,7 +106,10 @@ sum_stats_06 <- data_raw_06 |>
 
 ## Experiment 7
 
+bad_IDs <- c(3237, 3242, 3238, 3243, 3245, 3279, 3269, 3282, 3287, 3294, 3324, 3329)
+
 data_raw_07 <- read_csv("01-data-raw/data-raw-pilot-07.csv") |> 
+  filter(! submission_id %in% bad_IDs) |> 
   mutate(
     response_type = ifelse(trialType == "FC-interpretation", 
                            ifelse(str_extract(response, "^[a-zA-Z]+") == str_extract(prompt, "^[a-zA-Z]+"),
@@ -121,8 +124,6 @@ data_raw_07 <- read_csv("01-data-raw/data-raw-pilot-07.csv") |>
         group == 'effect-first' & trialType == 'generation-task-1' ~ 'effect-first',
         TRUE ~ "NA"
   ))
-
-bad_IDs <- c(3237, 3242, 3238, 3243, 3245, 3279, 3269, 3282, 3287, 3294, 3324, 3329)
 
 sum_stats_07 <- data_raw_07 |>
   filter(trialType == "FC-interpretation") |>
@@ -142,7 +143,6 @@ data_raw_07 |>
 
 data_raw_07 |> 
   filter(trialType != "FC-interpretation") |> 
-  filter(! submission_id %in% )
   group_by(generation) |>  
   reframe(bootstrap_ci(responseTime)) |> 
   ggplot(aes(x = generation, y = mean, color = generation, group = generation)) + 
