@@ -89,3 +89,4 @@ Try a live version:
 - preceded by two trial of generating alternative descriptions for "A causes B" with A or B in subject position
 - 100 participants from Prolific
 - same as for Exp 2 
+- only for Desktop users (unlike all previous), due to typing
