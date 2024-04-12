@@ -149,10 +149,60 @@ data_raw_07 |>
   geom_errorbar(aes(ymin = lower, ymax = upper), width = 0.2) +
   geom_point(size = 2.5)
 
-data_raw_07 |> 
+
+# Prep the free production data
+
+# Words to be replaced with their initials
+words_to_initials <- c(
+  'Themaglin' = 'T', 'Rebosen' = 'R', 'Denoden' = 'D', 
+  'Flembers' = 'F', 'Agoriv' = 'A', 'Ceflar' = 'C',
+  'themaglin' = 'T', 'rebosen' = 'R', 'denoden' = 'D', 
+  'flembers' = 'F', 'agoriv' = 'A', 'ceflar' = 'C'
+  )
+
+# Function to replace words with their initials
+replace_words_with_initials <- function(text, replacements) {
+  for (word in names(replacements)) {
+    text <- str_replace_all(text, word, replacements[word])
+  }
+  return(text)
+}
+
+# Apply the replacement function to the 'effect-first' and 'cause-first' columns
+data <- data %>%
+  mutate(effect-first = map_chr(effect-first, replace_words_with_initials, replacements = words_to_initials),
+         cause-first = map_chr(cause-first, replace_words_with_initials, replacements = words_to_initials))
+
+
+data_p7_free_prod <- data_raw_07 |> 
   filter(trialType != "FC-interpretation") |> 
   select(submission_id, trialNR, generation, response) |> 
   pivot_wider(names_from = generation, values_from = response) |> 
+  mutate(`effect-first-prepped` = map_chr(`effect-first`, replace_words_with_initials, replacements = words_to_initials),
+         `cause-first-prepped`  = map_chr(`cause-first`, replace_words_with_initials, replacements = words_to_initials)) |>
+  mutate(
+    nr_characters_effect_first = str_length(`effect-first-prepped`),
+    nr_characters_cause_first = str_length(`cause-first-prepped`)
+  ) 
+
+# get average number of characters per response and number of unique responses
+# Define the function
+string_lengths <- function(strings) {
+  sapply(strings, nchar)
+}
+data_p7_free_prod |>
+  select(submission_id, trialNR, `effect-first-prepped`, `cause-first-prepped`, 
+         nr_characters_effect_first, nr_characters_cause_first) |>
+  pivot_longer(cols = c(`effect-first-prepped`, `cause-first-prepped`), names_to = "condition", values_to = "generation") |>
+  mutate(string_length = string_lengths(generation)) |>
+  group_by(condition) |>
+  summarize(
+    mean_nr_characters = mean(string_length),
+    # SD_nr_characters = sd(string_length),
+    nr_unique_responses = n_distinct(generation)
+  )
+  
+data_p7_free_prod |>  
   write_csv('~/Desktop/productions_pilot-07.csv')
 
 ## merging all results togeter
