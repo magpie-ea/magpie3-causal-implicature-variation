@@ -1,0 +1,274 @@
+submission_id,trialNR,effect-first,cause-first,effect-first-prepped,cause-first-prepped,nr_characters_effect_first,nr_characters_cause_first
+3232,1,Denoden results from Rebosen,F results in T,D results from R,F results in T,16,14
+3232,2,D is caused by R,F causes T to happen,D is caused by R,F causes T to happen,16,20
+3232,3,D happens because of R,F leads to T,D happens because of R,F leads to T,22,12
+3233,1,Denoden is created by Flembers,Agoriv initiates Rebosen,D is created by F,A initiates R,17,13
+3233,2,Denoden is a result of Flembers,Agoriv is followed by Rebosen,D is a result of F,A is followed by R,18,18
+3233,3,Denoden is a product of Flembers,Agoriv makes Rebosen,D is a product of F,A makes R,19,9
+3234,1,C develops into A,R produces T,C develops into A,R produces T,17,12
+3234,2,C brings about A,R brings about T,C brings about A,R brings about T,16,16
+3234,3,C incurs A,R influences T,C incurs A,R influences T,10,14
+3235,1,C is the result of T,D leads to R,C is the result of T,D leads to R,20,12
+3235,2,C is due to T,D results in R,C is due to T,D results in R,13,14
+3235,3,C happens because of T,D is responsible for R,C happens because of T,D is responsible for R,22,22
+3236,1,A follows from T,F results in R,A follows from T,F results in R,16,14
+3236,2,A is the result of T,F causes R,A is the result of T,F causes R,20,10
+3236,3,A is caused by T,F is the reason for R,A is caused by T,F is the reason for R,16,21
+3239,1,T follows from A,R brings F,T follows from A,R brings F,16,10
+3239,2,T follows from A,R brings about F,T follows from A,R brings about F,16,16
+3239,3,T follows from A,R causes F,T follows from A,R causes F,16,10
+3240,1,R is a result of T,D is responsible for F,R is a result of T,D is responsible for F,18,22
+3240,2,R is brought on by T,D results in F being present,R is brought on by T,D results in F being present,20,28
+3240,3,R is a know effect of T,D leads to F,R is a know effect of T,D leads to F,23,12
+3241,1,Themalgin is caused by Denoden.,Flembers initiates Rebosen.,Themalgin is caused by D.,F initiates R.,25,14
+3241,2,Denoden is a cause of Themaglin.,Flembers is the cause of Rebosen.,D is a cause of T.,F is the cause of R.,18,20
+3241,3,Themalgin originates from Denoden.,Flembers produces Rebosen.,Themalgin originates from D.,F produces R.,28,13
+3244,1,Agoriv is caused by Denoden,Rebosen brings about Ceflar,A is caused by D,R brings about C,16,16
+3244,2,A follows from D,R brings about C,A follows from D,R brings about C,16,16
+3244,3,A caused by D,Rebosen causes C,A caused by D,R causes C,13,10
+3246,1,Rebosen is caused by Themaglin,Ceflar leads to Flembers,R is caused by T,C leads to F,16,12
+3246,2,Rebosen is caused by Themaglin,Ceflar will lead to Flembers,R is caused by T,C will lead to F,16,16
+3246,3,Rebosen is caused by Themaglin,Ceflar is among the causes of Flembers,R is caused by T,C is among the causes of F,16,26
+3248,1,themaglin precedes ceflar,flembers causes denoden,T precedes C,F causes D,12,10
+3248,2,themaglin comes before ceflar,flembers causes denoden,T comes before C,F causes D,16,10
+3248,3,themaglin triggers ceflar,flembers starts denoden,T triggers C,F starts D,12,10
+3250,1,Themaglin results from Ceflar.,Robosen results in Agoriv,T results from C.,Robosen results in A,17,20
+3250,2,Ceflar leads to Themaglin.,Rebosen is the cause of Agoriv,C leads to T.,R is the cause of A,13,19
+3250,3,Themaglin is caused by Ceflar.,Robosen induces Agoriv,T is caused by C.,Robosen induces A,17,17
+3253,1,Ceflar is generated from Rebosen,Themaglin generates Flembers,C is generated from R,T generates F,21,13
+3253,2,Ceflar is derived from Rebosen,Themaglin is a/the parent of Flembers,C is derived from R,T is a/the parent of F,19,22
+3253,3,Ceflar is a product of Rebosen,Themaglin produces Flembers,C is a product of R,T produces F,19,12
+3247,1,Themaglin is a direct result of Agoriv.,F results in A,T is a direct result of A.,F results in A,26,14
+3247,2,T is a result of A,F eventually becomes R,T is a result of A,F eventually becomes R,18,22
+3247,3,T is directly linked to A,F means A,T is directly linked to A,F means A,25,9
+3249,1,C is caused by T,A creates D,C is caused by T,A creates D,16,11
+3249,2,C is created by T,A leads to D,C is created by T,A leads to D,17,12
+3249,3,C is the result of T,A gives rise to D,C is the result of T,A gives rise to D,20,17
+3251,1,Themaglin happens as a result of Rebosen.,Agoriv leads to Ceflar.,T happens as a result of R.,A leads to C.,27,13
+3251,2,Themaglin is caused by Rebosen.,Agoriv is the cause of Ceflar.,T is caused by R.,A is the cause of C.,17,20
+3251,3,Themaglin results from Rebosen.,Agoriv results in Ceflar.,T results from R.,A results in C.,17,15
+3256,1,Flembers comes from Denoden,Themaglin triggers Ceflar,F comes from D,T triggers C,14,12
+3256,2,Flembers is a result of Denoden,Themgalin breeds ceflar,F is a result of D,Themgalin breeds C,18,18
+3256,3,Flembers is a consequence of Denoden,Themalgin activates Ceflar,F is a consequence of D,Themalgin activates C,23,21
+3252,1,T is a result of D,C instigates A,T is a result of D,C instigates A,18,14
+3252,2,T happens because of D,C triggers A,T happens because of D,C triggers A,22,12
+3252,3,T is produced via D,C produces A,T is produced via D,C produces A,19,12
+3254,1,Themaglin is caused by Flembers,Agoriv is followed by Denoden,T is caused by F,A is followed by D,16,18
+3254,2,Themaglin happens after exposure to Flembers,Agoriv will be followed by Denoden,T happens after exposure to F,A will be followed by D,29,23
+3254,3,Themaglin appears after Flembers,Agoriv will bring about Denoden,T appears after F,A will bring about D,17,20
+3255,1,Denoden is caused by rebosen,Flembers is a result of agoriv,D is caused by R,F is a result of A,16,18
+3255,2,denoden is caused by rebosen,flembers is a cause of agoriv,D is caused by R,F is a cause of A,16,17
+3255,3,denoden is a result of rebosen,flembers leads to agoriv,D is a result of R,F leads to A,18,12
+3257,1,Rebosen is caused by Themaglin,Agoriv makes Flembers appear,R is caused by T,A makes F appear,16,16
+3257,2,R is a consequence of T,Agoriv produces Flembers,R is a consequence of T,A produces F,23,12
+3257,3,Rebosen is a direct consequence of Themaglin,Agoriv allows Flembers to develop,R is a direct consequence of T,A allows F to develop,30,21
+3258,1,R is caused by D,C results in F,R is caused by D,C results in F,16,14
+3258,2,R is the result of D,C can make F happen,R is the result of D,C can make F happen,20,19
+3258,3,R happens after D,C leads to F,R happens after D,C leads to F,17,12
+3259,1,D happens after A,F causes T,D happens after A,F causes T,17,10
+3259,2,D is after A,F happens because of T,D is after A,F happens because of T,12,22
+3259,3,D happpens after A,F happens as of T,D happpens after A,F happens as of T,18,17
+3260,1,Themaglin is brought about by Ceflar,Rebosen is linked to Agoriv,T is brought about by C,R is linked to A,23,16
+3260,2,Themaglin is created by Ceflar,Rebosen leads to Agoriv,T is created by C,R leads to A,17,12
+3260,3,Themaglin stems from Ceflar,Rebosen creates Agoriv,T stems from C,R creates A,14,11
+3261,1,Flembers is the cause of Agoriv,Denoden makes Thermaglin happen,F is the cause of A,D makes Thermaglin happen,19,25
+3261,2,Flembers creates the conditions for Agoriv,Denoden is the cause of Themaglin,F creates the conditions for A,D is the cause of T,30,19
+3261,3,Flembers is the cause of Agoriv,Using Denoden creates the conditions for Themaglin,F is the cause of A,Using D creates the conditions for T,19,36
+3262,1,C is after T,"Rebosen causes Denoden, R brings about D, R is the root of D",C is after T,"R causes D, R brings about D, R is the root of D",12,48
+3262,2,C follows from T,R is the root of D,C follows from T,R is the root of D,16,18
+3262,3,T is after C,R brings about D,T is after C,R brings about D,12,16
+3263,1,D follows on from C,T causes A,D follows on from C,T causes A,19,10
+3263,2,D comes after C,T starts A,D comes after C,T starts A,15,10
+3263,3,D is after C,T brings on A,D is after C,T brings on A,12,13
+3264,1,R is caused by C,A is the cause of T,R is caused by C,A is the cause of T,16,19
+3264,2,R is the result of C,"A results in T
+",R is the result of C,"A results in T
+",20,15
+3264,3,R is because of C,A is beacuse of T,R is because of C,A is beacuse of T,17,17
+3265,1,R is the end result from D,F is known to bring upon C,R is the end result from D,F is known to bring upon C,26,26
+3265,2,R is a factor of D,F is the leading cause of C,R is a factor of D,F is the leading cause of C,18,27
+3265,3,R is a result of D,F can lead to C,R is a result of D,F can lead to C,18,15
+3266,1,D happens due to A,C is caused by r,D happens due to A,C is caused by r,18,16
+3266,2,D is a result of A,r WILL PRODUCE C,D is a result of A,r WILL PRODUCE C,18,16
+3266,3,D occurs after A,c HAPPENS BECAUSE OF r,D occurs after A,c HAPPENS BECAUSE OF r,16,22
+3267,1,Denoden will occur after use of Ceflar,Flembers makes Themaglin happen,D will occur after use of C,F makes T happen,27,16
+3267,2,Deonden will happen after using Ceflar,Flembers induces Themaglin,Deonden will happen after using C,F induces T,33,11
+3267,3,Denoden is caused by Ceflar,Flembers starts Themaglin,D is caused by C,F starts T,16,10
+3273,1,Rebosen is caused by even minute levels of Themaglin,"Flembers, unless controlled early, will develop into Agoriv",R is caused by even minute levels of T,"F, unless controlled early, will develop into A",38,47
+3273,2,Rebosen is the result of ingesting Themaglin,Flembers is the primary instigator of Agoriv,R is the result of ingesting T,F is the primary instigator of A,30,32
+3273,3,Rebosen disorder is a consqeuence of the liver producing excess Themaglin,Flembers leads to Agoriv,R disorder is a consqeuence of the liver producing excess T,F leads to A,59,12
+3276,1,Agoriv is what comes from Ceflar.,Denoden is the source of Themaglin.,A is what comes from C.,D is the source of T.,23,21
+3276,2,"Agoriv comes from the source,  which is Ceflar.",Denoden is the root of Themaglin.,"A comes from the source,  which is C.",D is the root of T.,37,19
+3276,3,Agoriv comes from Ceflar which is the origin.,Denoden is the starting point of Themaglin.,A comes from C which is the origin.,D is the starting point of T.,35,29
+3284,1,R happens due to T.,C leads to F,R happens due to T.,C leads to F,19,12
+3284,2,R is due to T,C produces F,R is due to T,C produces F,13,12
+3284,3,R happens because T.,C makes F happen,R happens because T.,C makes F happen,20,16
+3268,1,Rebosen is a bi-product of Denoden,Themaglin results in Flembers,R is a bi-product of D,T results in F,22,14
+3268,2,Rebosen is a direct cause of Denoden,Themaglin has a bi-product of flembers,R is a direct cause of D,T has a bi-product of F,24,23
+3268,3,Rebosen is a result of Denoden,Themaglin includes Flembers as a consequence,R is a result of D,T includes F as a consequence,18,29
+3274,1,F is a result of D,Ceflar initiates the Rebosen procedure,F is a result of D,C initiates the R procedure,18,27
+3274,2,F is the final outcome of D,C leads to R,F is the final outcome of D,C leads to R,27,12
+3274,3,F is the end stage of D,R is started by C,F is the end stage of D,R is started by C,23,17
+3275,1,Agoriv is caused by Ceflar,Flembers leads to Rebosen,A is caused by C,F leads to R,16,12
+3275,2,Agoriv comes from Ceflar,Flembers gives rise to Rebosen,A comes from C,F gives rise to R,14,17
+3275,3,Agoriv occurs due to Ceflar,Flembers induces Rebosen,A occurs due to C,F induces R,17,11
+3281,1,R is made from F,Agoriv forms Denoden,R is made from F,A forms D,16,9
+3281,2,F mixes with R,A is D,F mixes with R,A is D,14,6
+3281,3,F shadows from R,A makes D,F shadows from R,A makes D,16,9
+3292,1,denoden is caused by rebosen,Agoriv can lead to Themaglin,D is caused by R,A can lead to T,16,15
+3292,2,d is a result of r,"Agoriv results in themaglin
+",d is a result of r,"A results in T
+",18,15
+3292,3,d happens due to r,agoriv contributes to themaglin,d happens due to r,A contributes to T,18,18
+3297,1,Ceflar is the result of Agoriv,Rebosen leads to Flembers,C is the result of A,R leads to F,20,12
+3297,2,Ceflar is because of Agoriv,Rebosen precedes Flembers,C is because of A,R precedes F,17,12
+3297,3,Ceflar is the endpoint of Agoriv,Rebosen triggers Flembers,C is the endpoint of A,R triggers F,22,12
+3310,1,Agoriv is caused by Ceflar.,Flembers results in Themaglin.,A is caused by C.,F results in T.,17,15
+3310,2,Agoriv is the result of Ceflar.,Flembers can lead to Themaglin.,A is the result of C.,F can lead to T.,21,16
+3310,3,Agoriv exists because of Ceflar.,Flembers means Themaglin.,A exists because of C.,F means T.,22,10
+3270,1,R occurs after F,Themaglin is responsible for Agoriv,R occurs after F,T is responsible for A,16,22
+3270,2,R happens after F,Themaglin makes Agoriv happen,R happens after F,T makes A happen,17,16
+3270,3,R is after F,Themaglin makes Agoriv occur,R is after F,T makes A occur,12,15
+3271,1,A IS ALL ABOUT THE D,Ceflar is all about bringing the C to the T,A IS ALL ABOUT THE D,C is all about bringing the C to the T,20,38
+3271,2,A is taking the d back,C IS ALL ABOUT THE T,A is taking the d back,C IS ALL ABOUT THE T,22,20
+3271,3,A WILL FOLLOW THE D,C is going to bring back the T,A WILL FOLLOW THE D,C is going to bring back the T,19,30
+3272,1,Denoden spawns from Agoriv.,Flembers means Rebosen.,D spawns from A.,F means R.,16,10
+3272,2,Dendoden is caused by Agoriv.,Flembers give rise to Rebosen.,Dendoden is caused by A.,F give rise to R.,24,17
+3272,3,Denoden results from Agoriv.,Flembers are the cause of Rebosen.,D results from A.,F are the cause of R.,17,21
+3277,1,Denoden is caused by Flembers,Ceflar is brought on by Agoriv,D is caused by F,C is brought on by A,16,20
+3277,2,Denoden derives from Flembers,Ceflar is a cause for Agoriv,D derives from F,C is a cause for A,16,18
+3277,3,Denoden follows from Flembers,Ceflar brings about Agoriv,D follows from F,C brings about A,16,16
+3280,1,Rebosen comes after Flembers.,Agoriv starts Themaglin.,R comes after F.,A starts T.,16,11
+3280,2,Rebosen is caused by Flembers.,Agoriv results in Themaglin.,R is caused by F.,A results in T.,17,15
+3280,3,R is caused by F.,Agoriv begins Themaglin.,R is caused by F.,A begins T.,17,11
+3290,1,Denoden are caused by Flembers,Agoriv results in Ceflar,D are caused by F,A results in C,17,14
+3290,2,Denoden are a result of Flembers,Agoriv makes Ceflar happen,D are a result of F,A makes C happen,19,16
+3290,3,Denoden occur due to Flembers,Agoriv triggers Ceflar,D occur due to F,A triggers C,16,12
+3291,1,R is always caused by T,"After D, C always happens!",R is always caused by T,"After D, C always happens!",23,26
+3291,2,R comes with T,D causes C to occur,R comes with T,D causes C to occur,14,19
+3291,3,R happens because of T,D makes C happen,R happens because of T,D makes C happen,22,16
+3278,1,Ceflar can be caused by Denoden,Agoriv can cause Themaglin,C can be caused by D,A can cause T,20,13
+3278,2,Ceflar is produced by Denoden,Agoriv may often create themaglin,C is produced by D,A may often create T,18,20
+3278,3,Ceflar is a product of Denoden,Agoriv produces themaglin,C is a product of D,A produces T,19,12
+3283,1,Agoriv is caused by Rebosen,Flembers results in Denoden,A is caused by R,F results in D,16,14
+3283,2,Agoriv is a result of Rebosen,Flembers leads to Denoden,A is a result of R,F leads to D,18,12
+3283,3,Agoriv follows on from Rebosen,Flembers sequelae is Denoden,A follows on from R,F sequelae is D,19,15
+3298,1,Flembers is what goes on to cause Ceflar,Denoden brings about Agoriv,F is what goes on to cause C,D brings about A,28,16
+3298,2,Flembers is caused by Ceflar,Denoden is the cause of Agoriv,F is caused by C,D is the cause of A,16,19
+3298,3,Flembers is the end stage of what began as Ceflar,Denoden is what will give you Agoriv,F is the end stage of what began as C,D is what will give you A,37,25
+3300,1,Denoden are created by flembers,A creates t,D are created by F,A creates t,18,11
+3300,2,D comes from f,A brings about t,D comes from f,A brings about t,14,16
+3300,3,D are the result of f,A gives way to t,D are the result of f,A gives way to t,21,16
+3302,1,Ceflar is produced when Rebosen is present,Flembers is a substance that results in the production of Denoden,C is produced when R is present,F is a substance that results in the production of D,31,52
+3302,2,Ceflar is a product of Rebosen,Flembers can cause Deonden to appear when used,C is a product of R,F can cause Deonden to appear when used,19,39
+3302,3,Ceflar can appear when Rebosen is made,"Flembers, when used effectively, can result in Denoden",C can appear when R is made,"F, when used effectively, can result in D",27,41
+3285,1,A is caused by C,F leads to D,A is caused by C,F leads to D,16,12
+3285,2,A results from C,f can cause D,A results from C,f can cause D,16,13
+3285,3,A happens with C,F results in D,A happens with C,F results in D,16,14
+3289,1,Ceflar is cause by Denoden,Rebosen Triggers Flembers,C is cause by D,R Triggers F,15,12
+3289,2,Ceflar follows from Denoden,Rebosen is the cause of Flembers,C follows from D,R is the cause of F,16,19
+3289,3,Ceflar is initiated by Denoden,Rebosen starts Flembers,C is initiated by D,R starts F,19,10
+3296,1,Flembers is started because of Rebosen,Agoriv is responsible for Themaglin,F is started because of R,A is responsible for T,25,22
+3296,2,Flembers came about because of Rebosen,Agoriv is the main reason for Themaglin,F came about because of R,A is the main reason for T,25,26
+3296,3,Flembers exists because of Rebosen,Agoriv is why there is Themaglin,F exists because of R,A is why there is T,21,19
+3311,1,Themaglin is made up from the use of rebosen.,Ceflar is the main cause of creating flembers.,T is made up from the use of R.,C is the main cause of creating F.,31,34
+3311,2,Themaglin follows from rebosen.,Ceflar is found in flembers.,T follows from R.,C is found in F.,17,16
+3311,3,Themaglin is a product of rebosen.,Ceflar brings about flemebers.,T is a product of R.,C brings about flemebers.,20,25
+3323,1,F develops from D,A gives you C,F develops from D,A gives you C,17,13
+3323,2,F has lead from D,A can lead to C,F has lead from D,A can lead to C,17,15
+3323,3,F originated from D,A can inflict C,F originated from D,A can inflict C,19,15
+3286,1,agoriv is a result of ceflar,Robosen is the reason for Denoden,A is a result of C,Robosen is the reason for D,18,27
+3286,2,Agoriv comes from Ceflar,R gives you D,A comes from C,R gives you D,14,13
+3286,3,Ceflar is the reason for presence Agoriv,R presence results in D,C is the reason for presence A,R presence results in D,30,23
+3305,1,Themaglin is caused by Ceflar,Flembers is one thing that causes Denoden,T is caused by C,F is one thing that causes D,16,28
+3305,2,Themaglin is affected by Ceflar,Flembers is a factor that causes Denoden,T is affected by C,F is a factor that causes D,18,27
+3305,3,Themaglin is only caused by Ceflar,Flembers is the sole cause of Denoden,T is only caused by C,F is the sole cause of D,21,24
+3306,1,A is caused by R,F results in C,A is caused by R,F results in C,16,14
+3306,2,A is a result of R,F is the cause of C,A is a result of R,F is the cause of C,18,19
+3306,3,A starts from R,F starts C,A starts from R,F starts C,15,10
+3312,1,Rebosen is casued by Ceflar,D is brought on by A,R is casued by C,D is brought on by A,16,20
+3312,2,R comes after C,D happens because of A,R comes after C,D happens because of A,15,22
+3312,3,R happens because of C,D happens because of A,R happens because of C,D happens because of A,22,22
+3314,1,F happens because of R.,A happens because of C.,F happens because of R.,A happens because of C.,23,23
+3314,2,F is what you get after R happens.,A makes C happen.,F is what you get after R happens.,A makes C happen.,34,17
+3314,3,F is an effect of R.,A is a product of C.,F is an effect of R.,A is a product of C.,20,20
+3321,1,Agoriv is the consequence of Flembers.,Themaglin makes Denoden occur.,A is the consequence of F.,T makes D occur.,26,16
+3321,2,Agoriv occurs because of Flembers.,Themaglin is the cause of Denoden.,A occurs because of F.,T is the cause of D.,22,20
+3321,3,"Agoriv is what you can expect, should you have Flembers.",Themalin occurrence causes Denoden.,"A is what you can expect, should you have F.",Themalin occurrence causes D.,44,29
+3288,1,A comes from D,Ceflar creates Themaglin,A comes from D,C creates T,14,11
+3288,2,A results from D,C gives rise to T,A results from D,C gives rise to T,16,17
+3288,3,A is caused by D,C makes T happen,A is caused by D,C makes T happen,16,16
+3295,1,Flembers is caused by Themaglin,"C is the cause of A
+",F is caused by T,"C is the cause of A
+",16,20
+3295,2,Flembers comes about because of Themaglin,C brings about A,F comes about because of T,C brings about A,26,16
+3295,3,Flembers is a result of Themaglin,C is the agent resulting in A's appearance,F is a result of T,C is the agent resulting in A's appearance,18,42
+3303,1,"Agoriv gave way to Flembers
+",Themaglin produces a mild case of Rebosen,"A gave way to F
+",T produces a mild case of R,16,27
+3303,2,Agoriv came after Flembers,Themaglin gives rise to Rebosen,A came after F,T gives rise to R,14,17
+3303,3,Agoriv was produced from Flembers,Themaglin spawned some Rebosen,A was produced from F,T spawned some R,21,16
+3315,1,Denoden is caused by Rebosen,Ceflar will no doubt cause Flembers,D is caused by R,C will no doubt cause F,16,23
+3315,2,Denoden is a direct cause of Rebosen,Ceflar will cause Flembers,D is a direct cause of R,C will cause F,24,14
+3315,3,Denoden is due to Rebosen,Ceflar is the route cause of Flembers,D is due to R,C is the route cause of F,13,25
+3293,1,Rebosen is caused by Agoriv,Flembers results in Themaglin,R is caused by A,F results in T,16,14
+3293,2,Rebosen is a result of Agoriv,F produces T,R is a result of A,F produces T,18,12
+3293,3,Rebosen is the outcome of Agoriv,F is the reason for T,R is the outcome of A,F is the reason for T,21,21
+3301,1,F is a results of A.,T results in the occurrence of R.,F is a results of A.,T results in the occurrence of R.,20,33
+3301,2,F is a consequence of A.,T is responsible for R.,F is a consequence of A.,T is responsible for R.,24,23
+3301,3,F stems from A.,T induces R.,F stems from A.,T induces R.,15,12
+3322,1,D aim with R,C seed is T,D aim with R,C seed is T,12,11
+3322,2,D purpose is R,C root is T,D purpose is R,C root is T,14,11
+3322,3,D's objective is R,C beginnings is with T,D's objective is R,C beginnings is with T,18,22
+3304,1,Themaglin is caused by Ceflar.,Denoden creates Rebosen.,T is caused by C.,D creates R.,17,12
+3304,2,Themaglin is created by Ceflar.,Denoden is the cause of Rebosen.,T is created by C.,D is the cause of R.,18,20
+3304,3,Themaglin begins with Ceflar.,Denoden starts Rebosen.,T begins with C.,D starts R.,16,11
+3308,1,denoden is caused by the presence of flembers,c cause t,D is caused by the presence of F,c cause t,32,9
+3308,2,flembers are the cause of denoden,themaglin is caused by ceflar,F are the cause of D,T is caused by C,20,16
+3308,3,d is caused by f,ceflar causes themaglin,d is caused by f,C causes T,16,10
+3313,1,Agoriv caused by Rebosen,Denoden caused by Flembers,A caused by R,D caused by F,13,13
+3313,2,A is caused by R,D caused by F,A is caused by R,D caused by F,16,13
+3313,3,Agorive linked to Rebosen,F leads to D,Ae linked to R,F leads to D,14,12
+3299,1,D causes R.,C causes F.,D causes R.,C causes F.,11,11
+3299,2,R is caused by D.,C is caused by F.,R is caused by D.,C is caused by F.,17,17
+3299,3,The cause of R is D.,C is a product of F.,The cause of R is D.,C is a product of F.,20,20
+3309,1,Flembers is caused by ceflar.,"Denoden, when used causes agoriv.",F is caused by C.,"D, when used causes A.",17,22
+3309,2,Flembers is the result of ceflar been used.,"Denoden will be the result when using agoriv.
+",F is the result of C been used.,"D will be the result when using A.
+",31,35
+3309,3,Flembers is the result of ceflar use.,Denoden will be the conclusion when agoriv is involved.,F is the result of C use.,D will be the conclusion when A is involved.,25,44
+3307,1,Rebosen follows from C,A brings about F,R follows from C,A brings about F,16,16
+3307,2,Rebosen causes Ceflar,Agoriv causes Flembers,R causes C,A causes F,10,10
+3307,3,Rebosen is Ceflar,Agoriv is Flembers,R is C,A is F,6,6
+3316,1,C is caused by A,F causes T,C is caused by A,F causes T,16,10
+3316,2,C is a result of A,F leads to T,C is a result of A,F leads to T,18,12
+3316,3,C is brought on by A,T is brought on by F,C is brought on by A,T is brought on by F,20,20
+3318,1,Denoden is caused by Ceflar.,Agoriv will result in Rebosen.,D is caused by C.,A will result in R.,17,19
+3318,2,Denoden follows Ceflar.,Agoriv is the product of Rebosen.,D follows C.,A is the product of R.,12,22
+3318,3,Denoden is the result of Ceflar.,Agoriv will give you Rebosen.,D is the result of C.,A will give you R.,21,18
+3320,1,D creates c,Rebosen creates Agoriv,D creates c,R creates A,11,11
+3320,2,D follows on from C,Rebosen brings about Agoriv,D follows on from C,R brings about A,19,16
+3320,3,D CAUSES c,Rebosen means A,D CAUSES c,R means A,10,9
+3317,1,Agoriv results in Rebosen,"Themaglin ensures Flembers
+",A results in R,"T ensures F
+",14,12
+3317,2,Agoriv creates Rebosen,Themaglin makes Flembers,A creates R,T makes F,11,9
+3317,3,Agoriv generates Rebosen,Themaglin leads to Flembers,A generates R,T leads to F,13,12
+3319,1,Robeson is a direct result of having Themaglin,Agoriv is a condition that leads to Ceflar.,Robeson is a direct result of having T,A is a condition that leads to C.,38,33
+3319,2,Rebosen always is a outcome of previosly having had Themaglin.,Agoriv always results in the condition called Ceflar.,R always is a outcome of previosly having had T.,A always results in the condition called C.,48,43
+3319,3,Rebosen is an acute illness that is proven to follow a bout of Themaglin.,Agoriv should be avoided at all costs as it leads the dangerous condition Ceflar.,R is an acute illness that is proven to follow a bout of T.,A should be avoided at all costs as it leads the dangerous condition C.,59,71
+3325,1,D results from C,F leads to A,D results from C,F leads to A,16,12
+3325,2,D is a result of C,F produces A,D is a result of C,F produces A,18,12
+3325,3,D is a consequence of C,A is a consequence of F,D is a consequence of C,A is a consequence of F,23,23
+3326,1,Agoriv is the result of Rebosen.,Ceflar results in Denoden.,A is the result of R.,C results in D.,21,15
+3326,2,Agoriv comes after Rebosen.,Ceflar starts Denoden.,A comes after R.,C starts D.,16,11
+3326,3,Agoriv comes about after Rebosen.,Ceflar is a cause of Denoden.,A comes about after R.,C is a cause of D.,22,18
+3327,1,T is a result of c,A come from D,T is a result of c,A come from D,18,13
+3327,2,T come from C,A is a result of D,T come from C,A is a result of D,13,18
+3327,3,T came about from C,A happens after D,T came about from C,A happens after D,19,17
+3328,1,F comes from A,Rebosen contributes to Themaglin,F comes from A,R contributes to T,14,18
+3328,2,F is caused from A,Rebosen is the start of Themaglin,F is caused from A,R is the start of T,18,19
+3328,3,F triggers A,R relates to T,F triggers A,R relates to T,12,14
+3330,1,Denoden is a byproduct of Themaglin,Rebosen begins Ceflar,D is a byproduct of T,R begins C,21,10
+3330,2,Denoden is born from Themaglin,r births c,D is born from T,r births c,16,10
+3330,3,Denoden is preceded by Themaglin,r is the catalyst for c,D is preceded by T,r is the catalyst for c,18,23

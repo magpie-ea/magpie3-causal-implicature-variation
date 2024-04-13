@@ -168,12 +168,6 @@ replace_words_with_initials <- function(text, replacements) {
   return(text)
 }
 
-# Apply the replacement function to the 'effect-first' and 'cause-first' columns
-data <- data %>%
-  mutate(effect-first = map_chr(effect-first, replace_words_with_initials, replacements = words_to_initials),
-         cause-first = map_chr(cause-first, replace_words_with_initials, replacements = words_to_initials))
-
-
 data_p7_free_prod <- data_raw_07 |> 
   filter(trialType != "FC-interpretation") |> 
   select(submission_id, trialNR, generation, response) |> 
@@ -203,7 +197,7 @@ data_p7_free_prod |>
   )
   
 data_p7_free_prod |>  
-  write_csv('~/Desktop/productions_pilot-07.csv')
+  write_csv('prepped-data-pilot-07.csv')
 
 ## merging all results togeter
 
